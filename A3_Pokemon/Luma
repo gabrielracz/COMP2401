@@ -1,0 +1,85 @@
+ Num  Name                                   Typing        Tot  Hp Atk Def Satk Sdef Spd  Gen Leg
+#4    Charmander                           Fire            |309|39 |52 |43 |60 |50 |65 |  |1| |0|
+#5    Charmeleon                           Fire            |405|58 |64 |58 |80 |65 |80 |  |1| |0|
+#6    Charizard                            Fire Flying     |534|78 |84 |78 |109|85 |100|  |1| |0|
+#6    CharizardMega Charizard X            Fire Dragon     |634|78 |130|111|130|85 |100|  |1| |0|
+#6    CharizardMega Charizard Y            Fire Flying     |634|78 |104|78 |159|115|100|  |1| |0|
+#37   Vulpix                               Fire            |299|38 |41 |40 |50 |65 |65 |  |1| |0|
+#38   Ninetales                            Fire            |505|73 |76 |75 |81 |100|100|  |1| |0|
+#58   Growlithe                            Fire            |350|55 |70 |45 |70 |50 |60 |  |1| |0|
+#59   Arcanine                             Fire            |555|90 |110|80 |100|80 |95 |  |1| |0|
+#77   Ponyta                               Fire            |410|50 |85 |55 |65 |65 |90 |  |1| |0|
+#78   Rapidash                             Fire            |500|65 |100|70 |80 |80 |105|  |1| |0|
+#126  Magmar                               Fire            |495|65 |95 |57 |100|85 |93 |  |1| |0|
+#136  Flareon                              Fire            |525|65 |130|60 |95 |110|65 |  |1| |0|
+#146  Moltres                              Fire Flying     |580|90 |100|90 |125|85 |90 |  |1| |1|
+#155  Cyndaquil                            Fire            |309|39 |52 |43 |60 |50 |65 |  |2| |0|
+#156  Quilava                              Fire            |405|58 |64 |58 |80 |65 |80 |  |2| |0|
+#157  Typhlosion                           Fire            |534|78 |84 |78 |109|85 |100|  |2| |0|
+#218  Slugma                               Fire            |250|40 |40 |40 |70 |40 |20 |  |2| |0|
+#219  Magcargo                             Fire Rock       |410|50 |50 |120|80 |80 |30 |  |2| |0|
+#240  Magby                                Fire            |365|45 |75 |37 |70 |55 |83 |  |2| |0|
+#244  Entei                                Fire            |580|115|115|85 |90 |75 |100|  |2| |1|
+#250  Ho-oh                                Fire Flying     |680|106|130|90 |110|154|90 |  |2| |1|
+#255  Torchic                              Fire            |310|45 |60 |40 |70 |50 |45 |  |3| |0|
+#256  Combusken                            Fire Fighting   |405|60 |85 |60 |85 |60 |55 |  |3| |0|
+#257  Blaziken                             Fire Fighting   |530|80 |120|70 |110|70 |80 |  |3| |0|
+#257  BlazikenMega Blaziken                Fire Fighting   |630|80 |160|80 |130|80 |100|  |3| |0|
+#322  Numel                                Fire Ground     |305|60 |60 |40 |65 |45 |35 |  |3| |0|
+#323  Camerupt                             Fire Ground     |460|70 |100|70 |105|75 |40 |  |3| |0|
+#323  CameruptMega Camerupt                Fire Ground     |560|70 |120|100|145|105|20 |  |3| |0|
+#324  Torkoal                              Fire            |470|70 |85 |140|85 |70 |20 |  |3| |0|
+#390  Chimchar                             Fire            |309|44 |58 |44 |58 |44 |61 |  |4| |0|
+#391  Monferno                             Fire Fighting   |405|64 |78 |52 |78 |52 |81 |  |4| |0|
+#392  Infernape                            Fire Fighting   |534|76 |104|71 |104|71 |108|  |4| |0|
+#467  Magmortar                            Fire            |540|75 |95 |67 |125|95 |83 |  |4| |0|
+#485  Heatran                              Fire Steel      |600|91 |90 |106|130|106|77 |  |4| |1|
+#498  Tepig                                Fire            |308|65 |63 |45 |45 |45 |45 |  |5| |0|
+#499  Pignite                              Fire Fighting   |418|90 |93 |55 |70 |55 |55 |  |5| |0|
+#500  Emboar                               Fire Fighting   |528|110|123|65 |100|65 |65 |  |5| |0|
+#513  Pansear                              Fire            |316|50 |53 |48 |53 |48 |64 |  |5| |0|
+#514  Simisear                             Fire            |498|75 |98 |63 |98 |63 |101|  |5| |0|
+#554  Darumaka                             Fire            |315|70 |90 |45 |15 |45 |50 |  |5| |0|
+#555  DarmanitanStandard Mode              Fire            |480|105|140|55 |30 |55 |95 |  |5| |0|
+#555  DarmanitanZen Mode                   Fire Psychic    |540|105|30 |105|140|105|55 |  |5| |0|
+#631  Heatmor                              Fire            |484|85 |97 |66 |105|66 |65 |  |5| |0|
+#653  Fennekin                             Fire            |307|40 |45 |40 |62 |60 |60 |  |6| |0|
+#654  Braixen                              Fire            |409|59 |59 |58 |90 |70 |73 |  |6| |0|
+#655  Delphox                              Fire Psychic    |534|75 |69 |72 |114|100|104|  |6| |0|
+#662  Fletchinder                          Fire Flying     |382|62 |73 |55 |56 |52 |84 |  |6| |0|
+#663  Talonflame                           Fire Flying     |499|78 |81 |71 |74 |69 |126|  |6| |0|
+#667  Litleo                               Fire Normal     |369|62 |50 |58 |73 |54 |72 |  |6| |0|
+#668  Pyroar                               Fire Normal     |507|86 |68 |72 |109|66 |106|  |6| |0|
+#721  Volcanion                            Fire Water      |600|80 |110|120|130|90 |70 |  |6| |1|
+#92   Gastly                              Ghost Poison     |310|30 |35 |30 |100|35 |80 |  |1| |0|
+#93   Haunter                             Ghost Poison     |405|45 |50 |45 |115|55 |95 |  |1| |0|
+#94   Gengar                              Ghost Poison     |500|60 |65 |60 |130|75 |110|  |1| |0|
+#94   GengarMega Gengar                   Ghost Poison     |600|60 |65 |80 |170|95 |130|  |1| |0|
+#200  Misdreavus                          Ghost            |435|60 |60 |60 |85 |85 |85 |  |2| |0|
+#353  Shuppet                             Ghost            |295|44 |75 |35 |63 |33 |45 |  |3| |0|
+#354  Banette                             Ghost            |455|64 |115|65 |83 |63 |65 |  |3| |0|
+#354  BanetteMega Banette                 Ghost            |555|64 |165|75 |93 |83 |75 |  |3| |0|
+#355  Duskull                             Ghost            |295|20 |40 |90 |30 |90 |25 |  |3| |0|
+#356  Dusclops                            Ghost            |455|40 |70 |130|60 |130|25 |  |3| |0|
+#425  Drifloon                            Ghost Flying     |348|90 |50 |34 |60 |44 |70 |  |4| |0|
+#426  Drifblim                            Ghost Flying     |498|150|80 |44 |90 |54 |80 |  |4| |0|
+#429  Mismagius                           Ghost            |495|60 |60 |60 |105|105|105|  |4| |0|
+#442  Spiritomb                           Ghost Dark       |485|50 |92 |108|92 |108|35 |  |4| |0|
+#477  Dusknoir                            Ghost            |525|45 |100|135|65 |135|45 |  |4| |0|
+#487  GiratinaAltered Forme               Ghost Dragon     |680|150|100|120|100|120|90 |  |4| |1|
+#487  GiratinaOrigin Forme                Ghost Dragon     |680|150|120|100|120|100|90 |  |4| |1|
+#562  Yamask                              Ghost            |303|38 |30 |85 |55 |65 |30 |  |5| |0|
+#563  Cofagrigus                          Ghost            |483|58 |50 |145|95 |105|30 |  |5| |0|
+#607  Litwick                             Ghost Fire       |275|50 |30 |55 |65 |55 |20 |  |5| |0|
+#608  Lampent                             Ghost Fire       |370|60 |40 |60 |95 |60 |55 |  |5| |0|
+#609  Chandelure                          Ghost Fire       |520|60 |55 |90 |145|90 |80 |  |5| |0|
+#708  Phantump                            Ghost Grass      |309|43 |70 |48 |50 |60 |38 |  |6| |0|
+#709  Trevenant                           Ghost Grass      |474|85 |110|76 |65 |82 |56 |  |6| |0|
+#710  PumpkabooAverage Size               Ghost Grass      |335|49 |66 |70 |44 |55 |51 |  |6| |0|
+#710  PumpkabooSmall Size                 Ghost Grass      |335|44 |66 |70 |44 |55 |56 |  |6| |0|
+#710  PumpkabooLarge Size                 Ghost Grass      |335|54 |66 |70 |44 |55 |46 |  |6| |0|
+#710  PumpkabooSuper Size                 Ghost Grass      |335|59 |66 |70 |44 |55 |41 |  |6| |0|
+#711  GourgeistAverage Size               Ghost Grass      |494|65 |90 |122|58 |75 |84 |  |6| |0|
+#711  GourgeistSmall Size                 Ghost Grass      |494|55 |85 |122|58 |75 |99 |  |6| |0|
+#711  GourgeistLarge Size                 Ghost Grass      |494|75 |95 |122|58 |75 |69 |  |6| |0|
+#711  GourgeistSuper Size                 Ghost Grass      |494|85 |100|122|58 |75 |54 |  |6| |0|

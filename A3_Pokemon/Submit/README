@@ -1,0 +1,2 @@
+Compile poke.c using -lpthread to link the pthread library.
+Provide input as requested. Capitlization will be ignored in the type search but not for file creation.

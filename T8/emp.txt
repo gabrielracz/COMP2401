@@ -1,0 +1,232 @@
+
+ record 0
+Person Name =Shir   kirsh  age = 59 
+ Salaray: y[0]= 34360.000000  y[1]= 30128.000000  y[2]= 34744.000000  y[3]= 30256.000000  y[4]= 34992.000000 
+
+ record 1
+Person Name =John   Smith  age = 36 
+ Salaray: y[0]= 30896.000000  y[1]= 30640.000000  y[2]= 34744.000000  y[3]= 34360.000000  y[4]= 34736.000000 
+
+ record 2
+Person Name =Tal   North  age = 32 
+ Salaray: y[0]= 30008.000000  y[1]= 30264.000000  y[2]= 30256.000000  y[3]= 30384.000000  y[4]= 34352.000000 
+
+ record 3
+Person Name =Tal   kirsh  age = 22 
+ Salaray: y[0]= 30000.000000  y[1]= 30648.000000  y[2]= 30648.000000  y[3]= 30640.000000  y[4]= 34104.000000 
+
+ record 4
+Person Name =Tal   kirsh  age = 49 
+ Salaray: y[0]= 34864.000000  y[1]= 34616.000000  y[2]= 30520.000000  y[3]= 34736.000000  y[4]= 30904.000000 
+
+ record 5
+Person Name =Diana   North  age = 54 
+ Salaray: y[0]= 30512.000000  y[1]= 30520.000000  y[2]= 30904.000000  y[3]= 30776.000000  y[4]= 34104.000000 
+
+ record 6
+Person Name =Diana   Smith  age = 37 
+ Salaray: y[0]= 30768.000000  y[1]= 34104.000000  y[2]= 30768.000000  y[3]= 34232.000000  y[4]= 34608.000000 
+
+ record 7
+Person Name =David   North  age = 31 
+ Salaray: y[0]= 34872.000000  y[1]= 30392.000000  y[2]= 30136.000000  y[3]= 34360.000000  y[4]= 34608.000000 
+
+ record 8
+Person Name =David   North  age = 31 
+ Salaray: y[0]= 34616.000000  y[1]= 30640.000000  y[2]= 30512.000000  y[3]= 34736.000000  y[4]= 30000.000000 
+
+ record 9
+Person Name =Tal   Light  age = 49 
+ Salaray: y[0]= 30136.000000  y[1]= 34736.000000  y[2]= 34488.000000  y[3]= 34616.000000  y[4]= 35000.000000 
+
+ record 10
+Person Name =Diana   North  age = 26 
+ Salaray: y[0]= 35000.000000  y[1]= 34104.000000  y[2]= 30264.000000  y[3]= 30640.000000  y[4]= 34104.000000 
+
+ record 11
+Person Name =Tal   North  age = 30 
+ Salaray: y[0]= 30904.000000  y[1]= 30136.000000  y[2]= 34864.000000  y[3]= 30136.000000  y[4]= 34096.000000 
+
+ record 12
+Person Name =Diana   North  age = 45 
+ Salaray: y[0]= 30520.000000  y[1]= 34232.000000  y[2]= 34744.000000  y[3]= 30256.000000  y[4]= 34480.000000 
+
+ record 13
+Person Name =Diana   kirsh  age = 63 
+ Salaray: y[0]= 30136.000000  y[1]= 34608.000000  y[2]= 30648.000000  y[3]= 34480.000000  y[4]= 30520.000000 
+
+ record 14
+Person Name =Diana   kirsh  age = 30 
+ Salaray: y[0]= 30008.000000  y[1]= 34480.000000  y[2]= 30896.000000  y[3]= 34872.000000  y[4]= 30264.000000 
+
+ record 15
+Person Name =Shir   Smith  age = 62 
+ Salaray: y[0]= 34104.000000  y[1]= 34352.000000  y[2]= 30904.000000  y[3]= 30904.000000  y[4]= 30512.000000 
+
+ record 16
+Person Name =John   Smith  age = 35 
+ Salaray: y[0]= 34480.000000  y[1]= 34480.000000  y[2]= 30640.000000  y[3]= 34744.000000  y[4]= 30128.000000 
+
+ record 17
+Person Name =Shir   North  age = 49 
+ Salaray: y[0]= 30768.000000  y[1]= 30256.000000  y[2]= 34736.000000  y[3]= 30648.000000  y[4]= 30648.000000 
+
+ record 18
+Person Name =Tal   Worker  age = 58 
+ Salaray: y[0]= 30392.000000  y[1]= 30256.000000  y[2]= 34992.000000  y[3]= 34488.000000  y[4]= 34360.000000 
+
+ record 19
+Person Name =John   North  age = 31 
+ Salaray: y[0]= 34104.000000  y[1]= 34224.000000  y[2]= 30128.000000  y[3]= 34864.000000  y[4]= 34360.000000 
+
+ record 20
+Person Name =Tal   Light  age = 44 
+ Salaray: y[0]= 34744.000000  y[1]= 35000.000000  y[2]= 30008.000000  y[3]= 34096.000000  y[4]= 30000.000000 
+
+ record 21
+Person Name =Diana   Light  age = 38 
+ Salaray: y[0]= 30512.000000  y[1]= 34224.000000  y[2]= 34488.000000  y[3]= 34096.000000  y[4]= 30256.000000 
+
+ record 22
+Person Name =Shir   Light  age = 59 
+ Salaray: y[0]= 30512.000000  y[1]= 30904.000000  y[2]= 34096.000000  y[3]= 30008.000000  y[4]= 34096.000000 
+
+ record 23
+Person Name =David   Light  age = 28 
+ Salaray: y[0]= 34104.000000  y[1]= 30256.000000  y[2]= 34360.000000  y[3]= 30640.000000  y[4]= 30128.000000 
+
+ record 24
+Person Name =Diana   Worker  age = 48 
+ Salaray: y[0]= 34096.000000  y[1]= 30648.000000  y[2]= 34864.000000  y[3]= 30392.000000  y[4]= 30768.000000 
+
+ record 25
+Person Name =Shir   North  age = 41 
+ Salaray: y[0]= 34232.000000  y[1]= 30000.000000  y[2]= 30136.000000  y[3]= 30768.000000  y[4]= 34608.000000 
+
+ record 26
+Person Name =Diana   Worker  age = 52 
+ Salaray: y[0]= 30520.000000  y[1]= 30392.000000  y[2]= 34616.000000  y[3]= 30128.000000  y[4]= 30384.000000 
+
+ record 27
+Person Name =Shir   Light  age = 43 
+ Salaray: y[0]= 35000.000000  y[1]= 30264.000000  y[2]= 34608.000000  y[3]= 30008.000000  y[4]= 30384.000000 
+
+ record 28
+Person Name =Diana   kirsh  age = 57 
+ Salaray: y[0]= 34104.000000  y[1]= 30008.000000  y[2]= 30008.000000  y[3]= 30768.000000  y[4]= 30520.000000 
+
+ record 29
+Person Name =Diana   North  age = 25 
+ Salaray: y[0]= 30264.000000  y[1]= 30128.000000  y[2]= 34352.000000  y[3]= 30264.000000  y[4]= 34480.000000 
+
+ record 30
+Person Name =Tal   Smith  age = 29 
+ Salaray: y[0]= 30392.000000  y[1]= 30264.000000  y[2]= 34224.000000  y[3]= 34096.000000  y[4]= 30008.000000 
+
+ record 31
+Person Name =Tal   kirsh  age = 47 
+ Salaray: y[0]= 30896.000000  y[1]= 30520.000000  y[2]= 34744.000000  y[3]= 35000.000000  y[4]= 35000.000000 
+
+ record 32
+Person Name =Shir   Smith  age = 51 
+ Salaray: y[0]= 34232.000000  y[1]= 34744.000000  y[2]= 30896.000000  y[3]= 34232.000000  y[4]= 34864.000000 
+
+ record 33
+Person Name =Diana   Smith  age = 23 
+ Salaray: y[0]= 30008.000000  y[1]= 30640.000000  y[2]= 30000.000000  y[3]= 34104.000000  y[4]= 30264.000000 
+
+ record 34
+Person Name =John   kirsh  age = 44 
+ Salaray: y[0]= 30000.000000  y[1]= 34488.000000  y[2]= 30896.000000  y[3]= 30896.000000  y[4]= 30128.000000 
+
+ record 35
+Person Name =Diana   North  age = 28 
+ Salaray: y[0]= 30520.000000  y[1]= 30520.000000  y[2]= 34864.000000  y[3]= 34744.000000  y[4]= 34232.000000 
+
+ record 36
+Person Name =Shir   kirsh  age = 23 
+ Salaray: y[0]= 34736.000000  y[1]= 30256.000000  y[2]= 30640.000000  y[3]= 30512.000000  y[4]= 34232.000000 
+
+ record 37
+Person Name =Diana   Worker  age = 62 
+ Salaray: y[0]= 30648.000000  y[1]= 30520.000000  y[2]= 30384.000000  y[3]= 34360.000000  y[4]= 30648.000000 
+
+ record 38
+Person Name =Tal   Light  age = 32 
+ Salaray: y[0]= 34736.000000  y[1]= 30008.000000  y[2]= 30256.000000  y[3]= 34616.000000  y[4]= 34488.000000 
+
+ record 39
+Person Name =Diana   Worker  age = 48 
+ Salaray: y[0]= 30896.000000  y[1]= 30776.000000  y[2]= 34352.000000  y[3]= 34864.000000  y[4]= 34864.000000 
+
+ record 40
+Person Name =David   Light  age = 40 
+ Salaray: y[0]= 34736.000000  y[1]= 30264.000000  y[2]= 30136.000000  y[3]= 30768.000000  y[4]= 34608.000000 
+
+ record 41
+Person Name =Diana   North  age = 53 
+ Salaray: y[0]= 34232.000000  y[1]= 35000.000000  y[2]= 34480.000000  y[3]= 30136.000000  y[4]= 34096.000000 
+
+ record 42
+Person Name =John   kirsh  age = 44 
+ Salaray: y[0]= 30640.000000  y[1]= 34104.000000  y[2]= 30256.000000  y[3]= 30008.000000  y[4]= 30896.000000 
+
+ record 43
+Person Name =Diana   North  age = 41 
+ Salaray: y[0]= 34608.000000  y[1]= 34096.000000  y[2]= 34360.000000  y[3]= 30904.000000  y[4]= 30904.000000 
+
+ record 44
+Person Name =Diana   North  age = 55 
+ Salaray: y[0]= 30896.000000  y[1]= 30768.000000  y[2]= 34736.000000  y[3]= 34488.000000  y[4]= 30776.000000 
+
+ record 45
+Person Name =Tal   kirsh  age = 39 
+ Salaray: y[0]= 34744.000000  y[1]= 30648.000000  y[2]= 34872.000000  y[3]= 30392.000000  y[4]= 35000.000000 
+
+ record 46
+Person Name =Diana   North  age = 50 
+ Salaray: y[0]= 34736.000000  y[1]= 34608.000000  y[2]= 30008.000000  y[3]= 30000.000000  y[4]= 30648.000000 
+
+ record 47
+Person Name =David   kirsh  age = 27 
+ Salaray: y[0]= 34992.000000  y[1]= 34992.000000  y[2]= 30768.000000  y[3]= 34352.000000  y[4]= 34096.000000 
+
+ record 48
+Person Name =Tal   kirsh  age = 20 
+ Salaray: y[0]= 34616.000000  y[1]= 34488.000000  y[2]= 34352.000000  y[3]= 34872.000000  y[4]= 34352.000000 
+
+ record 49
+Person Name =David   Worker  age = 43 
+ Salaray: y[0]= 30136.000000  y[1]= 30136.000000  y[2]= 34744.000000  y[3]= 30128.000000  y[4]= 30128.000000 
+
+ record 50
+Person Name =Tal   Light  age = 52 
+ Salaray: y[0]= 30256.000000  y[1]= 34360.000000  y[2]= 34992.000000  y[3]= 34616.000000  y[4]= 34608.000000 
+
+ record 51
+Person Name =David   kirsh  age = 58 
+ Salaray: y[0]= 30648.000000  y[1]= 30904.000000  y[2]= 34488.000000  y[3]= 34480.000000  y[4]= 34096.000000 
+
+ record 52
+Person Name =Diana   Smith  age = 38 
+ Salaray: y[0]= 34224.000000  y[1]= 34104.000000  y[2]= 34736.000000  y[3]= 30520.000000  y[4]= 30136.000000 
+
+ record 53
+Person Name =Diana   kirsh  age = 46 
+ Salaray: y[0]= 34608.000000  y[1]= 34744.000000  y[2]= 34992.000000  y[3]= 30896.000000  y[4]= 34488.000000 
+
+ record 54
+Person Name =John   kirsh  age = 49 
+ Salaray: y[0]= 34480.000000  y[1]= 34488.000000  y[2]= 30640.000000  y[3]= 34872.000000  y[4]= 34232.000000 
+
+ record 55
+Person Name =Shir   Light  age = 24 
+ Salaray: y[0]= 30520.000000  y[1]= 34992.000000  y[2]= 34096.000000  y[3]= 34096.000000  y[4]= 30896.000000 
+
+ record 56
+Person Name =John   Worker  age = 57 
+ Salaray: y[0]= 34352.000000  y[1]= 34608.000000  y[2]= 34744.000000  y[3]= 30136.000000  y[4]= 34616.000000 
+
+ record 57
+Person Name =John   Worker  age = 57 
+ Salaray: y[0]= 34352.000000  y[1]= 34608.000000  y[2]= 34744.000000  y[3]= 30136.000000  y[4]= 34616.000000 

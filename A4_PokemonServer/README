@@ -1,0 +1,5 @@
+The server and client should be opperated in two seperate terminals to mimic the functionality of two machines.
+The server pps should be ran in the forground, setup with the pokemon.csv, and left.
+The client will take user input regardless of case and send the requests to the server.
+Compile using the Makefile provided 'make'
+
